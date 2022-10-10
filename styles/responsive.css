@@ -35,8 +35,9 @@
     }
 
     .stars-content,
-    .star p {
+    p {
         display: inline;
     }
+
 
 }
